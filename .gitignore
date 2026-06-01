@@ -1,0 +1,16 @@
+# Target build directory
+target/
+
+# Eclipse / STS specific files
+.metadata/
+.classpath
+.project
+.settings/
+.factorypath
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Log files
+*.log

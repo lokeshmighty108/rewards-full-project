@@ -1,2 +1,2 @@
-# rewards-full-project
-Spring Boot Web API for retailer rewards points calculation.
+Run Springboot application and hit this API : http://localhost:8080/api/rewards/1
+
